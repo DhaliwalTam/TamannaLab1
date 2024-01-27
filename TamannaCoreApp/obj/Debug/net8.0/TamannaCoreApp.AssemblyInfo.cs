@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TamannaCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8994082525e01293eec64c397fa3ea0eb58dea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6403dd61dfbc13fb1b7c5c6589fec9661905ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("TamannaCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TamannaCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
